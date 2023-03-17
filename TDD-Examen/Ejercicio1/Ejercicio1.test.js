@@ -2,7 +2,7 @@
 
 
 import { describe, expect, it } from 'vitest'
-import { Ejercicio1 } from './Ejercicio1'
+import { Ejercicio1 } from '../Ejercicio1/Ejercicio1'
 
 describe('Ejercicio1', ()  => {
  
