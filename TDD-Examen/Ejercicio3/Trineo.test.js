@@ -1,5 +1,5 @@
 import { describe,expect,it } from "vitest";
-import { Trineo } from "../Trineo";
+import { Trineo } from "../Ejercicio3/Trineo";
 
 
 describe('Trineo', () => {
