@@ -11,5 +11,5 @@ export const Ejercicio1 = (number) => {
       .forEach(([multiplier, word]) => {
         if (number % multiplier === 0) output += word
       })
-    return output === '' ? number : output
+    return output === '' ? number:output
   }
